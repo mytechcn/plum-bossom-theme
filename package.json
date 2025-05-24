@@ -1,0 +1,21 @@
+{
+  "name": "jlcolorful",
+  "displayName": "jlcolorful",
+  "description": "金陵彩",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "jlcolorful",
+        "uiTheme": "vs",
+        "path": "./themes/jlcolorful-color-theme.json"
+      }
+    ]
+  }
+}
