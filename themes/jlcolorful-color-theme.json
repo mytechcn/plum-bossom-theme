@@ -1431,7 +1431,7 @@
 			}
 		},
             {
-              "scope": "entity.name.type.go",
+              "scope": "entity.name.type",
               "settings": {
                   "foreground": "#9E880D"
               }
