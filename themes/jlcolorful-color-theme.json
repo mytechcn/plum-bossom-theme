@@ -9,7 +9,7 @@
 		"diffEditor.unchangedRegionBackground": "#f8f8f8",
 		"editor.background": "#cce8cf",
 		"editor.foreground": "#000000",
-		"editor.inactiveSelectionBackground": "#e5ebf1",
+		"editor.inactiveSelectionBackground": "#99e5ebf1",
 		"editor.selectionBackground": "#76ff02",
 		"editor.selectionHighlightBackground": "#add6ff80",
 		"editor.wordHighlightBackground": "#36d9d9e7",
@@ -1430,12 +1430,12 @@
 				"foreground": "#000000"
 			}
 		},
-		{
-			"scope": "variable.other.go",
-			"settings": {
-				"foreground": "#9E880D"
-			}
-		},
+		// {
+		// 	"scope": "variable.other.go",
+		// 	"settings": {
+		// 		"foreground": "#9E880D"
+		// 	}
+		// },
 		{
 			"scope": "keyword.operator",
 			"settings": {
@@ -1449,9 +1449,9 @@
 			}
 		},
 		{
-			"scope": "entity.name.type.go",
+			"scope": "entity.name.type",
 			"settings": {
-				"foreground": "#9E880D"
+				"foreground": "#336ECC"
 			}
 		},
 		{
