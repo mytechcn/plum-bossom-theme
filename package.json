@@ -1,9 +1,9 @@
 {
   "name": "jlcolorful",
   "repository":"",
-  "displayName": "jlcolorful",
-  "description": "金陵彩",
-  "version": "0.0.1",
+  "displayName": "jlcolorful theme",
+  "description": "jlcolorful is a light eye protection theme for Visual Studio Code.",
+  "version": "1.0",
   "engines": {
     "vscode": "^1.100.0"
   },
