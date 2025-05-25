@@ -1449,12 +1449,6 @@
 			}
 		},
 		{
-			"scope": "entity.name.type",
-			"settings": {
-				"foreground": "#336ECC"
-			}
-		},
-		{
 			"scope": "ref.matchtext",
 			"settings": {
 				"foreground": "#000000"
