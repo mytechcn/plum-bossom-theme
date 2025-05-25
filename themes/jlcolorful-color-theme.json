@@ -1430,12 +1430,12 @@
 				"foreground": "#000000"
 			}
 		},
-		// {
-		// 	"scope": "variable.other.go",
-		// 	"settings": {
-		// 		"foreground": "#9E880D"
-		// 	}
-		// },
+            {
+              "scope": "entity.name.type.go",
+              "settings": {
+                  "foreground": "#9E880D"
+              }
+            },
 		{
 			"scope": "keyword.operator",
 			"settings": {
