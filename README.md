@@ -1,5 +1,5 @@
-## About jlcolorful
-jlcolorful is a light eye protection theme for Visual Studio Code.
+## About plum-bossom-theme
+plum-bossom-theme is a light eye protection theme for Visual Studio Code.
 
 ## Development Guide
 1. Create a new Color Theme (https://code.visualstudio.com/api/extension-guides/color-theme#create-a-new-color-theme)

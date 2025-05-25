@@ -1,9 +1,10 @@
 {
-  "name": "jlcolorful",
+  "name": "plum-bossom-theme",
   "repository":{},
-  "displayName": "jlcolorful theme",
-  "description": "jlcolorful is a light eye protection theme for Visual Studio Code.",
+  "displayName": "plum-bossom theme",
+  "description": "plum-bossom is a light eye protection theme for Visual Studio Code.",
   "version": "1.0.0",
+  "publisher": "techcn",
   "engines": {
     "vscode": "^1.100.0"
   },
@@ -13,9 +14,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "jlcolorful",
+        "label": "plum-bossom-theme",
         "uiTheme": "vs",
-        "path": "./themes/jlcolorful-color-theme.json"
+        "path": "./themes/plum-bossom-theme-color-theme.json"
       }
     ]
   }
