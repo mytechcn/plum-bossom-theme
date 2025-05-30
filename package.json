@@ -1,9 +1,12 @@
 {
   "name": "plum-bossom-theme",
-  "repository":{},
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/mytechcn/plum-bossom-theme.git"
+  },
   "displayName": "plum-bossom theme",
   "description": "plum-bossom is a light eye protection theme for Visual Studio Code.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "techcn",
   "engines": {
     "vscode": "^1.100.0"
