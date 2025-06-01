@@ -6,7 +6,7 @@
   },
   "displayName": "plum-bossom-theme",
   "description": "plum-bossom-theme is a light eye protection theme for Visual Studio Code.There is currently only one green theme. I hope to customize more practical themes in the future.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "publisher": "techcn",
   "engines": {
     "vscode": "^1.100.0"
