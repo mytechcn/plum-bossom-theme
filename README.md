@@ -6,6 +6,13 @@ plum-bossom-theme is a light eye protection theme for Visual Studio Code.
 2. Publishing Extensions (https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
 3. yeoman (https://yeoman.io/authoring/)
 
+## publish
+```
+$ vsce package
+
+$ vsce publish
+```
+
 ## License
 MIT
 
