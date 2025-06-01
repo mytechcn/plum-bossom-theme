@@ -1,6 +1,7 @@
 ## About plum-bossom-theme
 plum-bossom-theme is a light eye protection theme for Visual Studio Code.There is currently only one green theme.
  I hope to customize more practical themes in the future.
+ Plum blossom is the city flower of Nanjing, China, a famous historical and cultural city in southern China.
 
 ## Development Guide
 1. Create a new Color Theme (https://code.visualstudio.com/api/extension-guides/color-theme#create-a-new-color-theme)
@@ -20,4 +21,3 @@ MIT
 ## Author
 <NAME>vin
 <EMAIL>techcn@qq.com
-<CITY>Plum blossom is the city flower of Nanjing, China, a famous historical and cultural city in southern China.
